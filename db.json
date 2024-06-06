@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$AMflBIXuDtpSNK5O4cBVIOHB0MPnekyym7V.SzvEti0rWygRI/RoK",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "title": "Телевизоры",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-22/y3wjekMM6QJ2x290pgmXBkRvepJwCoBbQClTHbYkqyDc8ev6b6THDRGZH2Pr.JPG",
+      "id": 1
+    },
+    {
+      "title": "Ноутбуки",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-18/AoIgc8DJJM4pwBuF674LpAss1NSvk98ASdAhlhQzBOxMWN53IALhwiqa6t9i.jpg",
+      "id": 2
+    },
+    {
+      "title": "Смартфоны",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-29/S5UhY3FOSeGWhwYJ0sHKkdspzfvck4iRJev46pEMCW0KlWlG41byGhCc4pSg.jpg",
+      "id": 3
+    },
+    {
+      "title": "Планшеты",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-07/s9bnFaVVXwf41pRWUACI4LLM6thM3WSPK59CDJUXmn2eP7l5XyowAuCgTuxu.jpg",
+      "id": 4
+    }
+  ],
+  "banneers": [],
+  "products": [
+    {
+      "title": "Планшет Xiaomi Redmi Pad SE Graphite Gray 6/128GB",
+      "brand": "Xiaomi",
+      "manufacturingCode": "4334",
+      "country": "Chine",
+      "des": "eqwe",
+      "code": "12",
+      "packingLength": "e3eqe",
+      "packingWidth": "32",
+      "packingHeight": "34",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-07/s9bnFaVVXwf41pRWUACI4LLM6thM3WSPK59CDJUXmn2eP7l5XyowAuCgTuxu.jpg",
+      "color": "red",
+      "vendorCode": "12",
+      "barcode": "121",
+      "price": "100",
+      "discountPrice": "12",
+      "priceOzonPremium": "2qew",
+      "categoryId": "3",
+      "categoryName": "Смартфоны",
+      "id": 1,
+      "category": "1,Телевизоры"
+    },
+    {
+      "title": "Телевизор LG UR78009 65''",
+      "brand": "samsung",
+      "manufacturingCode": "1234",
+      "country": "USA",
+      "des": "adfsdgfh",
+      "code": "111",
+      "packingLength": "e3eqe",
+      "packingWidth": "232",
+      "packingHeight": "34",
+      "img": "https://olcha.uz/image/700x700/products/FhChmSbDRmtHc0Jq0vT5uyogCTHovCUmh4wxGugSPuwnlFxVgl3LznSMAdW1.jpg",
+      "color": "111",
+      "vendorCode": "111",
+      "barcode": "111",
+      "price": "111",
+      "discountPrice": "1111",
+      "priceOzonPremium": "2qew",
+      "categoryId": "1",
+      "categoryName": "Телевизоры",
+      "id": 2,
+      "category": "1,Телевизоры"
+    },
+    {
+      "title": "Ноутбук Acer Nitro 5 ",
+      "brand": "samsung",
+      "manufacturingCode": "1234",
+      "country": "Chine",
+      "des": "ewrtf",
+      "code": "324",
+      "packingLength": "e3eqe",
+      "packingWidth": "ewe",
+      "packingHeight": "34",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-16/G7fzUPTR2BJJzqJP8QQPv4d6XtUaLCzAlwVVVoQ0YA1zSCkzLrNo4jpvn6nP.jpg",
+      "color": "111",
+      "vendorCode": "111",
+      "barcode": "121",
+      "price": "45",
+      "discountPrice": "12",
+      "priceOzonPremium": "2qew",
+      "categoryId": "2",
+      "categoryName": "Ноутбуки",
+      "id": 3,
+      "category": "1,Телевизоры"
+    },
+    {
+      "title": "Samsung Galaxy Tab",
+      "brand": "samsung",
+      "manufacturingCode": "1234",
+      "country": "Chine",
+      "des": "dfd",
+      "code": "eer",
+      "packingLength": "e3eqe",
+      "packingWidth": "232",
+      "packingHeight": "eqwe",
+      "img": "https://olcha.uz/image/700x700/products/XMGJyEx753FpiPEKPQuijoFAgotJwRIH0MK2RFuvBQi1bVU66eijOdKM9nXU.jpg",
+      "color": "111",
+      "vendorCode": "111",
+      "barcode": "121",
+      "price": "5555",
+      "discountPrice": "1111",
+      "priceOzonPremium": "2qew",
+      "categoryId": "4",
+      "categoryName": "Планшеты",
+      "id": 4,
+      "category": "1,Телевизоры"
+    }
+  ]
+}
