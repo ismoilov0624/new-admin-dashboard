@@ -4,9 +4,11 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "api/server.js",
   "scripts": {
+    "dev": "json-server-auth db.json -r routes.json",
     "start": "node api/server.js"
   },
   "dependencies": {
-    "json-server": "^0.17.4"
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
   }
 }
